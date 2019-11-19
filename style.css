@@ -1,0 +1,436 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_title\.scss}line{font-family:\000031}}
+* {
+  padding: 0;
+  margin: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_title\.scss}line{font-family:\000036}}
+.title__header {
+  max-width: 239px;
+  width: 100%;
+  height: 17px;
+  opacity: 0.71;
+  color: #d7794a;
+  font-family: "Myriad Pro";
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 0.63px;
+  margin: 49px 1618px 55px 63px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_intro\.scss}line{font-family:\000031}}
+.title__intro {
+  position: relative;
+  background: url(foto/logo.jpg) center no-repeat;
+  width: 100%;
+  height: 774px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_intro\.scss}line{font-family:\000038}}
+.title__bar {
+  width: 100%;
+  height: 77px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: rgba(0, 0, 0, 0.5); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_intro\.scss}line{font-family:\0000316}}
+a {
+  margin: 0 40px;
+  line-height: 77px;
+  text-decoration: none;
+  color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_intro\.scss}line{font-family:\0000321}}
+  a:hover {
+    background-color: #00b4f0a4; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_intro\.scss}line{font-family:\0000325}}
+.title__welcome {
+  max-width: 516px;
+  height: 125px;
+  margin: 458px 143px 114px 1259px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_intro\.scss}line{font-family:\0000331}}
+.title__welcome_to {
+  width: 100%;
+  height: 51px;
+  color: #fcf9f7;
+  font-family: Baskerville;
+  font-size: 72px;
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_intro\.scss}line{font-family:\0000340}}
+.title__yourcompany {
+  width: 509px;
+  height: 31px;
+  letter-spacing: -2px;
+  margin-top: 41px;
+  color: #d7794a;
+  font-family: Athelas;
+  font-size: 48px;
+  font-weight: 400; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\000031}}
+.team__leaders__title {
+  width: 617px;
+  height: 41px;
+  color: #a95e39;
+  font-family: Athelas;
+  font-size: 61px;
+  margin: 281px 666px 41px 637px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000310}}
+.team__leaders__line {
+  width: 442px;
+  height: 1px;
+  background-color: #88543a;
+  margin: 40px auto 87px;
+  opacity: 0.3; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000318}}
+.team__leaders__description {
+  width: 1137px;
+  height: 104px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 30px;
+  letter-spacing: 0.9px;
+  margin: 0 404px 231px 379px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000328}}
+.leaders__img {
+  width: 1542px;
+  height: 570px;
+  margin: 0 206px 0 172px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000335}}
+  .leaders__img img {
+    width: 445px;
+    height: 570px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000341}}
+.team__leaders__name {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  max-width: 1300px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 25.46px;
+  font-family: Helvetica;
+  margin: 48px 318px 0 301px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000351}}
+  .team__leaders__name .first__leader {
+    margin-left: 35px;
+    width: 153px;
+    height: 28px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000357}}
+  .team__leaders__name .second__leader {
+    width: 174px;
+    height: 22px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000362}}
+  .team__leaders__name .third__leader {
+    width: 204px;
+    height: 22px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000369}}
+.team__leaders__desc {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  max-width: 1460px;
+  height: 70px;
+  font-family: Helvetica;
+  font-size: 20px;
+  letter-spacing: 0.6px;
+  margin: 65px 252px 320px 212px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000379}}
+  .team__leaders__desc .first__desc {
+    width: 380px;
+    height: 70px;
+    margin-left: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000384}}
+  .team__leaders__desc .second__desc {
+    width: 380px;
+    height: 70px;
+    margin-left: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_content\.scss}line{font-family:\0000389}}
+  .team__leaders__desc .third__desc {
+    margin-right: -10px;
+    width: 380px;
+    height: 70px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_bar_information\.scss}line{font-family:\000031}}
+.bar__information {
+  position: absolute;
+  background-color: #1b2b31;
+  width: 100%;
+  height: 340px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_bar_information\.scss}line{font-family:\000038}}
+.bar__information__number {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  max-width: 1275px;
+  height: 57px;
+  color: #995437;
+  font-family: Vani;
+  font-size: 77px;
+  letter-spacing: 1.5px;
+  margin: 115px 319px 50px 329px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_bar_information\.scss}line{font-family:\0000321}}
+.bar__information__text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  max-width: 1260px;
+  height: 18px;
+  color: #ffffff;
+  font-family: "Myriad Pro";
+  text-transform: uppercase;
+  font-size: 26px;
+  letter-spacing: 1px;
+  margin: 0px 325px 115px 340px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_bar_information\.scss}line{font-family:\0000334}}
+  .bar__information__text .bar__information__text_one {
+    margin-left: -30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_bar_information\.scss}line{font-family:\0000337}}
+  .bar__information__text .bar__information__text_four {
+    margin: 0 -15px 0 33px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_icon\.scss}line{font-family:\000031}}
+.icons {
+  margin-top: 660px;
+  width: 100%;
+  background: url(foto/Icon.jpg) center no-repeat;
+  height: 1080px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\000031}}
+.contact_us {
+  width: 100%;
+  height: 1435px;
+  background-color: #1b2b31; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\000037}}
+.contact__title {
+  position: relative;
+  width: 417px;
+  height: 45px;
+  color: #ffffff;
+  font-family: Athelas;
+  font-size: 65px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  margin: 0px 739px 0 764px;
+  top: 293px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000320}}
+.contact__text {
+  position: relative;
+  width: 766px;
+  height: 71px;
+  color: #c0c0c0;
+  font-family: "Quattrocento Sans";
+  font-size: 28px;
+  letter-spacing: 0.5px;
+  margin: 0 566px 0 588px;
+  top: 372px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000332}}
+.fields__input {
+  position: relative;
+  height: 15px;
+  color: #8f8f8f;
+  font-family: "Quattrocento Sans";
+  font-size: 22px;
+  letter-spacing: 0.4px;
+  background-color: transparent;
+  padding: 14px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #bfbfbf; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000346}}
+#name {
+  top: 487px;
+  width: 498px;
+  margin: 0 40px 0px 467px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000353}}
+#category {
+  top: 487px;
+  width: 498px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000358}}
+#phone {
+  top: 530px;
+  width: 498px;
+  margin: 0px 40px 0px 469px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000364}}
+#city {
+  top: 530px;
+  width: 498px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000369}}
+#email {
+  position: relative;
+  height: 16px;
+  color: #8f8f8f;
+  font-family: "Quattrocento Sans";
+  font-size: 22px;
+  letter-spacing: 0.4px;
+  background-color: transparent;
+  padding: 14px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #bfbfbf;
+  width: 1070px;
+  margin: 0px 0 0 467px;
+  top: 580px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\0000387}}
+#message {
+  position: relative;
+  height: 20px;
+  color: #8f8f8f;
+  font-family: "Quattrocento Sans";
+  font-size: 22px;
+  letter-spacing: 0.4px;
+  background-color: transparent;
+  margin: 0px 0 0 467px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #bfbfbf;
+  width: 1100px;
+  min-height: 146px;
+  top: 650px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_contact\.scss}line{font-family:\00003104}}
+.button {
+  position: relative;
+  width: 241px;
+  height: 73px;
+  border: 2px solid #623621;
+  background-color: #89553b;
+  margin: 0px 0 0 1327px;
+  top: 724px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\000031}}
+.about_us {
+  width: 100%;
+  height: 1267px;
+  background: url(foto/Icon.jpg) center no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\000037}}
+.teamplate {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 1817px;
+  height: 599px;
+  margin: 355px 43px 313px 43px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\0000316}}
+.about_us__foto {
+  width: 906px;
+  height: 599px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\0000321}}
+.teamplate__text {
+  width: 840px;
+  height: 524px;
+  background-color: #f9f9fb;
+  margin: 34px 37px 41px 34px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\0000328}}
+.about_us__title {
+  width: 250px;
+  height: 31px;
+  font-family: Athelas;
+  font-size: 46px;
+  text-transform: uppercase;
+  letter-spacing: 2.4px;
+  margin: 71px 260px 41px 330px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\0000338}}
+.about_us__text {
+  width: 554px;
+  height: 51px;
+  color: #3d3d3d;
+  font-family: "Quattrocento Sans";
+  font-size: 20px;
+  letter-spacing: 0.5px;
+  margin: 0 104px 67px 182px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\0000348}}
+.about_us__fotos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 655px;
+  height: 143px;
+  margin: 0 93px 0 92px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_about_us\.scss}line{font-family:\0000355}}
+  .about_us__fotos .cats_foto {
+    height: 139px;
+    width: 139px;
+    border-radius: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_our_gallery\.scss}line{font-family:\000031}}
+.our_gallery {
+  position: absolute;
+  width: 100%;
+  height: 1258px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_our_gallery\.scss}line{font-family:\000037}}
+.our_gallery__title {
+  width: 493px;
+  height: 49px;
+  color: #a95e39;
+  font-family: Athelas;
+  font-size: 67px;
+  text-transform: uppercase;
+  letter-spacing: 1.8px;
+  margin: 188px 658px 92px 769px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Dimon\/Desktop\/website\/_our_gallery\.scss}line{font-family:\0000318}}
+.our_gallery__text {
+  width: 1508px;
+  height: 114px;
+  margin: 0 190px 160px 222px;
+  font-size: 45px; }
+
+/*# sourceMappingURL=style.css.map */
